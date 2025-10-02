@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+    norma(0)       0.39      0.75      0.51        57
+pathology(1)       0.90      0.65      0.76       194
+
+    accuracy                           0.68       251
+   macro avg       0.65      0.70      0.64       251
+weighted avg       0.78      0.68      0.70       251
